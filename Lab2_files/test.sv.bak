@@ -1,0 +1,26 @@
+`timescale 1ps/1ps
+module test (out, A);	
+	output logic [2:0] out;
+	input logic [2:0] A;
+	
+	parameter delay = 50;
+	
+	not #delay invertgate (out, A);
+	
+endmodule
+
+module test_testbench();
+	logic [2:0] out;
+	logic [2:0] A;
+	
+	// Try all combinations of inputs.
+	initial begin
+		s = 0; in1 = 0; in2 = 1; #5000;
+		s = 0; in1 = 1; in2 = 0; #5000;
+		s = 1; in1 = 0; in2 = 1; #5000;
+		s = 1; in1 = 1; in2 = 0; #5000;
+	end
+	
+	mux2_1 dut (.out, .in1, .in2, .s);
+	
+endmodule

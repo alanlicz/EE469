@@ -1,0 +1,12 @@
+// the only action here is LT, but if there are more conditions, use a decoder here
+module condCheck (action, CondCode); 
+	input logic [4:0] CondCode;
+	output logic action;
+	logic wire1, wire2;
+	
+	nor a (wire1, CondCode[4], CondCode[2]);
+	and b (wire2, CondCode[3], CondCode[1], CondCode[0]);
+	and c (CondCode, wire1, wire2);
+
+endmodule 
+

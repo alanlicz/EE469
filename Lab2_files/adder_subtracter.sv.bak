@@ -1,0 +1,11 @@
+`timescale 1ps/1ps
+module adder_subtracter (Out, Co, A, B, Ci, S0);
+	output logic Sum, Co;
+	input logic A, B, Ci, S0;
+	logic ;
+	parameter delay = 50;
+	
+	
+	
+	
+endmodule

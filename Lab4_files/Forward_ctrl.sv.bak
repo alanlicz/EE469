@@ -1,0 +1,9 @@
+module Forward_ctrl (cA, cB, Aa, Ab, Aw_EX, Aw_MEM, RegWrite_MEM, RegWrite_WB);
+	output logic cA, cB;
+	input logic [4:0] Aa, Ab, Aw_EX, Aw_MEM;
+	input logic RegWrite_MEM, RegWrite_WB;
+	
+	
+
+
+endmodule 

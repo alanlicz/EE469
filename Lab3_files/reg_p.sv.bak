@@ -1,0 +1,15 @@
+module reg_p #(parameter WIDTH = 4) (DataOut, DataIn, WriteEn, clk, reset);	//takein 4, take out 4 bit
+	output logic [WIDTH-1:0] DataOut;
+	input  logic       clk, WriteEn, reset;
+	input  logic [WIDTH-1:0] DataIn;
+	logic        [WIDTH-1:0] muxOut;
+	
+	genvar i;
+	generate
+		for(i = 0; i < WIDTH; i++) begin : each1bRegister
+			mux2_1 mx (.out(muxOut[i]), .in1(DataOut[i]), .in2(DataIn[i]), .s(WriteEn));
+			D_FF regis (.q(DataOut[i]), .d(muxOut[i]), .reset, .clk);
+		end
+	endgenerate
+
+endmodule 

@@ -1,0 +1,7824 @@
+|alu
+A[0] => and_or_xor[0].andgate.IN0
+A[0] => and_or_xor[0].orgate.IN0
+A[0] => and_or_xor[0].xorgate.IN0
+A[0] => adder_subtracter:cal.A[0]
+A[1] => and_or_xor[1].andgate.IN0
+A[1] => and_or_xor[1].orgate.IN0
+A[1] => and_or_xor[1].xorgate.IN0
+A[1] => adder_subtracter:cal.A[1]
+A[2] => and_or_xor[2].andgate.IN0
+A[2] => and_or_xor[2].orgate.IN0
+A[2] => and_or_xor[2].xorgate.IN0
+A[2] => adder_subtracter:cal.A[2]
+A[3] => and_or_xor[3].andgate.IN0
+A[3] => and_or_xor[3].orgate.IN0
+A[3] => and_or_xor[3].xorgate.IN0
+A[3] => adder_subtracter:cal.A[3]
+A[4] => and_or_xor[4].andgate.IN0
+A[4] => and_or_xor[4].orgate.IN0
+A[4] => and_or_xor[4].xorgate.IN0
+A[4] => adder_subtracter:cal.A[4]
+A[5] => and_or_xor[5].andgate.IN0
+A[5] => and_or_xor[5].orgate.IN0
+A[5] => and_or_xor[5].xorgate.IN0
+A[5] => adder_subtracter:cal.A[5]
+A[6] => and_or_xor[6].andgate.IN0
+A[6] => and_or_xor[6].orgate.IN0
+A[6] => and_or_xor[6].xorgate.IN0
+A[6] => adder_subtracter:cal.A[6]
+A[7] => and_or_xor[7].andgate.IN0
+A[7] => and_or_xor[7].orgate.IN0
+A[7] => and_or_xor[7].xorgate.IN0
+A[7] => adder_subtracter:cal.A[7]
+A[8] => and_or_xor[8].andgate.IN0
+A[8] => and_or_xor[8].orgate.IN0
+A[8] => and_or_xor[8].xorgate.IN0
+A[8] => adder_subtracter:cal.A[8]
+A[9] => and_or_xor[9].andgate.IN0
+A[9] => and_or_xor[9].orgate.IN0
+A[9] => and_or_xor[9].xorgate.IN0
+A[9] => adder_subtracter:cal.A[9]
+A[10] => and_or_xor[10].andgate.IN0
+A[10] => and_or_xor[10].orgate.IN0
+A[10] => and_or_xor[10].xorgate.IN0
+A[10] => adder_subtracter:cal.A[10]
+A[11] => and_or_xor[11].andgate.IN0
+A[11] => and_or_xor[11].orgate.IN0
+A[11] => and_or_xor[11].xorgate.IN0
+A[11] => adder_subtracter:cal.A[11]
+A[12] => and_or_xor[12].andgate.IN0
+A[12] => and_or_xor[12].orgate.IN0
+A[12] => and_or_xor[12].xorgate.IN0
+A[12] => adder_subtracter:cal.A[12]
+A[13] => and_or_xor[13].andgate.IN0
+A[13] => and_or_xor[13].orgate.IN0
+A[13] => and_or_xor[13].xorgate.IN0
+A[13] => adder_subtracter:cal.A[13]
+A[14] => and_or_xor[14].andgate.IN0
+A[14] => and_or_xor[14].orgate.IN0
+A[14] => and_or_xor[14].xorgate.IN0
+A[14] => adder_subtracter:cal.A[14]
+A[15] => and_or_xor[15].andgate.IN0
+A[15] => and_or_xor[15].orgate.IN0
+A[15] => and_or_xor[15].xorgate.IN0
+A[15] => adder_subtracter:cal.A[15]
+A[16] => and_or_xor[16].andgate.IN0
+A[16] => and_or_xor[16].orgate.IN0
+A[16] => and_or_xor[16].xorgate.IN0
+A[16] => adder_subtracter:cal.A[16]
+A[17] => and_or_xor[17].andgate.IN0
+A[17] => and_or_xor[17].orgate.IN0
+A[17] => and_or_xor[17].xorgate.IN0
+A[17] => adder_subtracter:cal.A[17]
+A[18] => and_or_xor[18].andgate.IN0
+A[18] => and_or_xor[18].orgate.IN0
+A[18] => and_or_xor[18].xorgate.IN0
+A[18] => adder_subtracter:cal.A[18]
+A[19] => and_or_xor[19].andgate.IN0
+A[19] => and_or_xor[19].orgate.IN0
+A[19] => and_or_xor[19].xorgate.IN0
+A[19] => adder_subtracter:cal.A[19]
+A[20] => and_or_xor[20].andgate.IN0
+A[20] => and_or_xor[20].orgate.IN0
+A[20] => and_or_xor[20].xorgate.IN0
+A[20] => adder_subtracter:cal.A[20]
+A[21] => and_or_xor[21].andgate.IN0
+A[21] => and_or_xor[21].orgate.IN0
+A[21] => and_or_xor[21].xorgate.IN0
+A[21] => adder_subtracter:cal.A[21]
+A[22] => and_or_xor[22].andgate.IN0
+A[22] => and_or_xor[22].orgate.IN0
+A[22] => and_or_xor[22].xorgate.IN0
+A[22] => adder_subtracter:cal.A[22]
+A[23] => and_or_xor[23].andgate.IN0
+A[23] => and_or_xor[23].orgate.IN0
+A[23] => and_or_xor[23].xorgate.IN0
+A[23] => adder_subtracter:cal.A[23]
+A[24] => and_or_xor[24].andgate.IN0
+A[24] => and_or_xor[24].orgate.IN0
+A[24] => and_or_xor[24].xorgate.IN0
+A[24] => adder_subtracter:cal.A[24]
+A[25] => and_or_xor[25].andgate.IN0
+A[25] => and_or_xor[25].orgate.IN0
+A[25] => and_or_xor[25].xorgate.IN0
+A[25] => adder_subtracter:cal.A[25]
+A[26] => and_or_xor[26].andgate.IN0
+A[26] => and_or_xor[26].orgate.IN0
+A[26] => and_or_xor[26].xorgate.IN0
+A[26] => adder_subtracter:cal.A[26]
+A[27] => and_or_xor[27].andgate.IN0
+A[27] => and_or_xor[27].orgate.IN0
+A[27] => and_or_xor[27].xorgate.IN0
+A[27] => adder_subtracter:cal.A[27]
+A[28] => and_or_xor[28].andgate.IN0
+A[28] => and_or_xor[28].orgate.IN0
+A[28] => and_or_xor[28].xorgate.IN0
+A[28] => adder_subtracter:cal.A[28]
+A[29] => and_or_xor[29].andgate.IN0
+A[29] => and_or_xor[29].orgate.IN0
+A[29] => and_or_xor[29].xorgate.IN0
+A[29] => adder_subtracter:cal.A[29]
+A[30] => and_or_xor[30].andgate.IN0
+A[30] => and_or_xor[30].orgate.IN0
+A[30] => and_or_xor[30].xorgate.IN0
+A[30] => adder_subtracter:cal.A[30]
+A[31] => and_or_xor[31].andgate.IN0
+A[31] => and_or_xor[31].orgate.IN0
+A[31] => and_or_xor[31].xorgate.IN0
+A[31] => adder_subtracter:cal.A[31]
+A[32] => and_or_xor[32].andgate.IN0
+A[32] => and_or_xor[32].orgate.IN0
+A[32] => and_or_xor[32].xorgate.IN0
+A[32] => adder_subtracter:cal.A[32]
+A[33] => and_or_xor[33].andgate.IN0
+A[33] => and_or_xor[33].orgate.IN0
+A[33] => and_or_xor[33].xorgate.IN0
+A[33] => adder_subtracter:cal.A[33]
+A[34] => and_or_xor[34].andgate.IN0
+A[34] => and_or_xor[34].orgate.IN0
+A[34] => and_or_xor[34].xorgate.IN0
+A[34] => adder_subtracter:cal.A[34]
+A[35] => and_or_xor[35].andgate.IN0
+A[35] => and_or_xor[35].orgate.IN0
+A[35] => and_or_xor[35].xorgate.IN0
+A[35] => adder_subtracter:cal.A[35]
+A[36] => and_or_xor[36].andgate.IN0
+A[36] => and_or_xor[36].orgate.IN0
+A[36] => and_or_xor[36].xorgate.IN0
+A[36] => adder_subtracter:cal.A[36]
+A[37] => and_or_xor[37].andgate.IN0
+A[37] => and_or_xor[37].orgate.IN0
+A[37] => and_or_xor[37].xorgate.IN0
+A[37] => adder_subtracter:cal.A[37]
+A[38] => and_or_xor[38].andgate.IN0
+A[38] => and_or_xor[38].orgate.IN0
+A[38] => and_or_xor[38].xorgate.IN0
+A[38] => adder_subtracter:cal.A[38]
+A[39] => and_or_xor[39].andgate.IN0
+A[39] => and_or_xor[39].orgate.IN0
+A[39] => and_or_xor[39].xorgate.IN0
+A[39] => adder_subtracter:cal.A[39]
+A[40] => and_or_xor[40].andgate.IN0
+A[40] => and_or_xor[40].orgate.IN0
+A[40] => and_or_xor[40].xorgate.IN0
+A[40] => adder_subtracter:cal.A[40]
+A[41] => and_or_xor[41].andgate.IN0
+A[41] => and_or_xor[41].orgate.IN0
+A[41] => and_or_xor[41].xorgate.IN0
+A[41] => adder_subtracter:cal.A[41]
+A[42] => and_or_xor[42].andgate.IN0
+A[42] => and_or_xor[42].orgate.IN0
+A[42] => and_or_xor[42].xorgate.IN0
+A[42] => adder_subtracter:cal.A[42]
+A[43] => and_or_xor[43].andgate.IN0
+A[43] => and_or_xor[43].orgate.IN0
+A[43] => and_or_xor[43].xorgate.IN0
+A[43] => adder_subtracter:cal.A[43]
+A[44] => and_or_xor[44].andgate.IN0
+A[44] => and_or_xor[44].orgate.IN0
+A[44] => and_or_xor[44].xorgate.IN0
+A[44] => adder_subtracter:cal.A[44]
+A[45] => and_or_xor[45].andgate.IN0
+A[45] => and_or_xor[45].orgate.IN0
+A[45] => and_or_xor[45].xorgate.IN0
+A[45] => adder_subtracter:cal.A[45]
+A[46] => and_or_xor[46].andgate.IN0
+A[46] => and_or_xor[46].orgate.IN0
+A[46] => and_or_xor[46].xorgate.IN0
+A[46] => adder_subtracter:cal.A[46]
+A[47] => and_or_xor[47].andgate.IN0
+A[47] => and_or_xor[47].orgate.IN0
+A[47] => and_or_xor[47].xorgate.IN0
+A[47] => adder_subtracter:cal.A[47]
+A[48] => and_or_xor[48].andgate.IN0
+A[48] => and_or_xor[48].orgate.IN0
+A[48] => and_or_xor[48].xorgate.IN0
+A[48] => adder_subtracter:cal.A[48]
+A[49] => and_or_xor[49].andgate.IN0
+A[49] => and_or_xor[49].orgate.IN0
+A[49] => and_or_xor[49].xorgate.IN0
+A[49] => adder_subtracter:cal.A[49]
+A[50] => and_or_xor[50].andgate.IN0
+A[50] => and_or_xor[50].orgate.IN0
+A[50] => and_or_xor[50].xorgate.IN0
+A[50] => adder_subtracter:cal.A[50]
+A[51] => and_or_xor[51].andgate.IN0
+A[51] => and_or_xor[51].orgate.IN0
+A[51] => and_or_xor[51].xorgate.IN0
+A[51] => adder_subtracter:cal.A[51]
+A[52] => and_or_xor[52].andgate.IN0
+A[52] => and_or_xor[52].orgate.IN0
+A[52] => and_or_xor[52].xorgate.IN0
+A[52] => adder_subtracter:cal.A[52]
+A[53] => and_or_xor[53].andgate.IN0
+A[53] => and_or_xor[53].orgate.IN0
+A[53] => and_or_xor[53].xorgate.IN0
+A[53] => adder_subtracter:cal.A[53]
+A[54] => and_or_xor[54].andgate.IN0
+A[54] => and_or_xor[54].orgate.IN0
+A[54] => and_or_xor[54].xorgate.IN0
+A[54] => adder_subtracter:cal.A[54]
+A[55] => and_or_xor[55].andgate.IN0
+A[55] => and_or_xor[55].orgate.IN0
+A[55] => and_or_xor[55].xorgate.IN0
+A[55] => adder_subtracter:cal.A[55]
+A[56] => and_or_xor[56].andgate.IN0
+A[56] => and_or_xor[56].orgate.IN0
+A[56] => and_or_xor[56].xorgate.IN0
+A[56] => adder_subtracter:cal.A[56]
+A[57] => and_or_xor[57].andgate.IN0
+A[57] => and_or_xor[57].orgate.IN0
+A[57] => and_or_xor[57].xorgate.IN0
+A[57] => adder_subtracter:cal.A[57]
+A[58] => and_or_xor[58].andgate.IN0
+A[58] => and_or_xor[58].orgate.IN0
+A[58] => and_or_xor[58].xorgate.IN0
+A[58] => adder_subtracter:cal.A[58]
+A[59] => and_or_xor[59].andgate.IN0
+A[59] => and_or_xor[59].orgate.IN0
+A[59] => and_or_xor[59].xorgate.IN0
+A[59] => adder_subtracter:cal.A[59]
+A[60] => and_or_xor[60].andgate.IN0
+A[60] => and_or_xor[60].orgate.IN0
+A[60] => and_or_xor[60].xorgate.IN0
+A[60] => adder_subtracter:cal.A[60]
+A[61] => and_or_xor[61].andgate.IN0
+A[61] => and_or_xor[61].orgate.IN0
+A[61] => and_or_xor[61].xorgate.IN0
+A[61] => adder_subtracter:cal.A[61]
+A[62] => and_or_xor[62].andgate.IN0
+A[62] => and_or_xor[62].orgate.IN0
+A[62] => and_or_xor[62].xorgate.IN0
+A[62] => adder_subtracter:cal.A[62]
+A[63] => and_or_xor[63].andgate.IN0
+A[63] => and_or_xor[63].orgate.IN0
+A[63] => and_or_xor[63].xorgate.IN0
+A[63] => adder_subtracter:cal.A[63]
+B[0] => B[0].IN1
+B[1] => B[1].IN1
+B[2] => B[2].IN1
+B[3] => B[3].IN1
+B[4] => B[4].IN1
+B[5] => B[5].IN1
+B[6] => B[6].IN1
+B[7] => B[7].IN1
+B[8] => B[8].IN1
+B[9] => B[9].IN1
+B[10] => B[10].IN1
+B[11] => B[11].IN1
+B[12] => B[12].IN1
+B[13] => B[13].IN1
+B[14] => B[14].IN1
+B[15] => B[15].IN1
+B[16] => B[16].IN1
+B[17] => B[17].IN1
+B[18] => B[18].IN1
+B[19] => B[19].IN1
+B[20] => B[20].IN1
+B[21] => B[21].IN1
+B[22] => B[22].IN1
+B[23] => B[23].IN1
+B[24] => B[24].IN1
+B[25] => B[25].IN1
+B[26] => B[26].IN1
+B[27] => B[27].IN1
+B[28] => B[28].IN1
+B[29] => B[29].IN1
+B[30] => B[30].IN1
+B[31] => B[31].IN1
+B[32] => B[32].IN1
+B[33] => B[33].IN1
+B[34] => B[34].IN1
+B[35] => B[35].IN1
+B[36] => B[36].IN1
+B[37] => B[37].IN1
+B[38] => B[38].IN1
+B[39] => B[39].IN1
+B[40] => B[40].IN1
+B[41] => B[41].IN1
+B[42] => B[42].IN1
+B[43] => B[43].IN1
+B[44] => B[44].IN1
+B[45] => B[45].IN1
+B[46] => B[46].IN1
+B[47] => B[47].IN1
+B[48] => B[48].IN1
+B[49] => B[49].IN1
+B[50] => B[50].IN1
+B[51] => B[51].IN1
+B[52] => B[52].IN1
+B[53] => B[53].IN1
+B[54] => B[54].IN1
+B[55] => B[55].IN1
+B[56] => B[56].IN1
+B[57] => B[57].IN1
+B[58] => B[58].IN1
+B[59] => B[59].IN1
+B[60] => B[60].IN1
+B[61] => B[61].IN1
+B[62] => B[62].IN1
+B[63] => B[63].IN1
+cntrl[0] => cntrl[0].IN64
+cntrl[1] => cntrl[1].IN64
+cntrl[2] => cntrl[2].IN64
+result[0] << mux8_1:muxs[0].m.out
+result[1] << mux8_1:muxs[1].m.out
+result[2] << mux8_1:muxs[2].m.out
+result[3] << mux8_1:muxs[3].m.out
+result[4] << mux8_1:muxs[4].m.out
+result[5] << mux8_1:muxs[5].m.out
+result[6] << mux8_1:muxs[6].m.out
+result[7] << mux8_1:muxs[7].m.out
+result[8] << mux8_1:muxs[8].m.out
+result[9] << mux8_1:muxs[9].m.out
+result[10] << mux8_1:muxs[10].m.out
+result[11] << mux8_1:muxs[11].m.out
+result[12] << mux8_1:muxs[12].m.out
+result[13] << mux8_1:muxs[13].m.out
+result[14] << mux8_1:muxs[14].m.out
+result[15] << mux8_1:muxs[15].m.out
+result[16] << mux8_1:muxs[16].m.out
+result[17] << mux8_1:muxs[17].m.out
+result[18] << mux8_1:muxs[18].m.out
+result[19] << mux8_1:muxs[19].m.out
+result[20] << mux8_1:muxs[20].m.out
+result[21] << mux8_1:muxs[21].m.out
+result[22] << mux8_1:muxs[22].m.out
+result[23] << mux8_1:muxs[23].m.out
+result[24] << mux8_1:muxs[24].m.out
+result[25] << mux8_1:muxs[25].m.out
+result[26] << mux8_1:muxs[26].m.out
+result[27] << mux8_1:muxs[27].m.out
+result[28] << mux8_1:muxs[28].m.out
+result[29] << mux8_1:muxs[29].m.out
+result[30] << mux8_1:muxs[30].m.out
+result[31] << mux8_1:muxs[31].m.out
+result[32] << mux8_1:muxs[32].m.out
+result[33] << mux8_1:muxs[33].m.out
+result[34] << mux8_1:muxs[34].m.out
+result[35] << mux8_1:muxs[35].m.out
+result[36] << mux8_1:muxs[36].m.out
+result[37] << mux8_1:muxs[37].m.out
+result[38] << mux8_1:muxs[38].m.out
+result[39] << mux8_1:muxs[39].m.out
+result[40] << mux8_1:muxs[40].m.out
+result[41] << mux8_1:muxs[41].m.out
+result[42] << mux8_1:muxs[42].m.out
+result[43] << mux8_1:muxs[43].m.out
+result[44] << mux8_1:muxs[44].m.out
+result[45] << mux8_1:muxs[45].m.out
+result[46] << mux8_1:muxs[46].m.out
+result[47] << mux8_1:muxs[47].m.out
+result[48] << mux8_1:muxs[48].m.out
+result[49] << mux8_1:muxs[49].m.out
+result[50] << mux8_1:muxs[50].m.out
+result[51] << mux8_1:muxs[51].m.out
+result[52] << mux8_1:muxs[52].m.out
+result[53] << mux8_1:muxs[53].m.out
+result[54] << mux8_1:muxs[54].m.out
+result[55] << mux8_1:muxs[55].m.out
+result[56] << mux8_1:muxs[56].m.out
+result[57] << mux8_1:muxs[57].m.out
+result[58] << mux8_1:muxs[58].m.out
+result[59] << mux8_1:muxs[59].m.out
+result[60] << mux8_1:muxs[60].m.out
+result[61] << mux8_1:muxs[61].m.out
+result[62] << mux8_1:muxs[62].m.out
+result[63] << mux8_1:muxs[63].m.out
+negative << mux8_1:muxs[63].m.out
+zero << l5.DB_MAX_OUTPUT_PORT_TYPE
+overflow << adder_subtracter:cal.OF
+carry_out << adder_subtracter:cal.last_Co
+
+
+|alu|adder_subtracter:cal
+Sum[0] <= full_Adder:f1.Sum
+Sum[1] <= full_Adder:each_adder[1].f1.Sum
+Sum[2] <= full_Adder:each_adder[2].f1.Sum
+Sum[3] <= full_Adder:each_adder[3].f1.Sum
+Sum[4] <= full_Adder:each_adder[4].f1.Sum
+Sum[5] <= full_Adder:each_adder[5].f1.Sum
+Sum[6] <= full_Adder:each_adder[6].f1.Sum
+Sum[7] <= full_Adder:each_adder[7].f1.Sum
+Sum[8] <= full_Adder:each_adder[8].f1.Sum
+Sum[9] <= full_Adder:each_adder[9].f1.Sum
+Sum[10] <= full_Adder:each_adder[10].f1.Sum
+Sum[11] <= full_Adder:each_adder[11].f1.Sum
+Sum[12] <= full_Adder:each_adder[12].f1.Sum
+Sum[13] <= full_Adder:each_adder[13].f1.Sum
+Sum[14] <= full_Adder:each_adder[14].f1.Sum
+Sum[15] <= full_Adder:each_adder[15].f1.Sum
+Sum[16] <= full_Adder:each_adder[16].f1.Sum
+Sum[17] <= full_Adder:each_adder[17].f1.Sum
+Sum[18] <= full_Adder:each_adder[18].f1.Sum
+Sum[19] <= full_Adder:each_adder[19].f1.Sum
+Sum[20] <= full_Adder:each_adder[20].f1.Sum
+Sum[21] <= full_Adder:each_adder[21].f1.Sum
+Sum[22] <= full_Adder:each_adder[22].f1.Sum
+Sum[23] <= full_Adder:each_adder[23].f1.Sum
+Sum[24] <= full_Adder:each_adder[24].f1.Sum
+Sum[25] <= full_Adder:each_adder[25].f1.Sum
+Sum[26] <= full_Adder:each_adder[26].f1.Sum
+Sum[27] <= full_Adder:each_adder[27].f1.Sum
+Sum[28] <= full_Adder:each_adder[28].f1.Sum
+Sum[29] <= full_Adder:each_adder[29].f1.Sum
+Sum[30] <= full_Adder:each_adder[30].f1.Sum
+Sum[31] <= full_Adder:each_adder[31].f1.Sum
+Sum[32] <= full_Adder:each_adder[32].f1.Sum
+Sum[33] <= full_Adder:each_adder[33].f1.Sum
+Sum[34] <= full_Adder:each_adder[34].f1.Sum
+Sum[35] <= full_Adder:each_adder[35].f1.Sum
+Sum[36] <= full_Adder:each_adder[36].f1.Sum
+Sum[37] <= full_Adder:each_adder[37].f1.Sum
+Sum[38] <= full_Adder:each_adder[38].f1.Sum
+Sum[39] <= full_Adder:each_adder[39].f1.Sum
+Sum[40] <= full_Adder:each_adder[40].f1.Sum
+Sum[41] <= full_Adder:each_adder[41].f1.Sum
+Sum[42] <= full_Adder:each_adder[42].f1.Sum
+Sum[43] <= full_Adder:each_adder[43].f1.Sum
+Sum[44] <= full_Adder:each_adder[44].f1.Sum
+Sum[45] <= full_Adder:each_adder[45].f1.Sum
+Sum[46] <= full_Adder:each_adder[46].f1.Sum
+Sum[47] <= full_Adder:each_adder[47].f1.Sum
+Sum[48] <= full_Adder:each_adder[48].f1.Sum
+Sum[49] <= full_Adder:each_adder[49].f1.Sum
+Sum[50] <= full_Adder:each_adder[50].f1.Sum
+Sum[51] <= full_Adder:each_adder[51].f1.Sum
+Sum[52] <= full_Adder:each_adder[52].f1.Sum
+Sum[53] <= full_Adder:each_adder[53].f1.Sum
+Sum[54] <= full_Adder:each_adder[54].f1.Sum
+Sum[55] <= full_Adder:each_adder[55].f1.Sum
+Sum[56] <= full_Adder:each_adder[56].f1.Sum
+Sum[57] <= full_Adder:each_adder[57].f1.Sum
+Sum[58] <= full_Adder:each_adder[58].f1.Sum
+Sum[59] <= full_Adder:each_adder[59].f1.Sum
+Sum[60] <= full_Adder:each_adder[60].f1.Sum
+Sum[61] <= full_Adder:each_adder[61].f1.Sum
+Sum[62] <= full_Adder:each_adder[62].f1.Sum
+Sum[63] <= full_Adder:each_adder[63].f1.Sum
+last_Co <= full_Adder:each_adder[63].f1.Co
+OF <= check_OF.DB_MAX_OUTPUT_PORT_TYPE
+A[0] => A[0].IN1
+A[1] => A[1].IN1
+A[2] => A[2].IN1
+A[3] => A[3].IN1
+A[4] => A[4].IN1
+A[5] => A[5].IN1
+A[6] => A[6].IN1
+A[7] => A[7].IN1
+A[8] => A[8].IN1
+A[9] => A[9].IN1
+A[10] => A[10].IN1
+A[11] => A[11].IN1
+A[12] => A[12].IN1
+A[13] => A[13].IN1
+A[14] => A[14].IN1
+A[15] => A[15].IN1
+A[16] => A[16].IN1
+A[17] => A[17].IN1
+A[18] => A[18].IN1
+A[19] => A[19].IN1
+A[20] => A[20].IN1
+A[21] => A[21].IN1
+A[22] => A[22].IN1
+A[23] => A[23].IN1
+A[24] => A[24].IN1
+A[25] => A[25].IN1
+A[26] => A[26].IN1
+A[27] => A[27].IN1
+A[28] => A[28].IN1
+A[29] => A[29].IN1
+A[30] => A[30].IN1
+A[31] => A[31].IN1
+A[32] => A[32].IN1
+A[33] => A[33].IN1
+A[34] => A[34].IN1
+A[35] => A[35].IN1
+A[36] => A[36].IN1
+A[37] => A[37].IN1
+A[38] => A[38].IN1
+A[39] => A[39].IN1
+A[40] => A[40].IN1
+A[41] => A[41].IN1
+A[42] => A[42].IN1
+A[43] => A[43].IN1
+A[44] => A[44].IN1
+A[45] => A[45].IN1
+A[46] => A[46].IN1
+A[47] => A[47].IN1
+A[48] => A[48].IN1
+A[49] => A[49].IN1
+A[50] => A[50].IN1
+A[51] => A[51].IN1
+A[52] => A[52].IN1
+A[53] => A[53].IN1
+A[54] => A[54].IN1
+A[55] => A[55].IN1
+A[56] => A[56].IN1
+A[57] => A[57].IN1
+A[58] => A[58].IN1
+A[59] => A[59].IN1
+A[60] => A[60].IN1
+A[61] => A[61].IN1
+A[62] => A[62].IN1
+A[63] => A[63].IN1
+B[0] => B[0].IN1
+B[1] => B[1].IN1
+B[2] => B[2].IN1
+B[3] => B[3].IN1
+B[4] => B[4].IN1
+B[5] => B[5].IN1
+B[6] => B[6].IN1
+B[7] => B[7].IN1
+B[8] => B[8].IN1
+B[9] => B[9].IN1
+B[10] => B[10].IN1
+B[11] => B[11].IN1
+B[12] => B[12].IN1
+B[13] => B[13].IN1
+B[14] => B[14].IN1
+B[15] => B[15].IN1
+B[16] => B[16].IN1
+B[17] => B[17].IN1
+B[18] => B[18].IN1
+B[19] => B[19].IN1
+B[20] => B[20].IN1
+B[21] => B[21].IN1
+B[22] => B[22].IN1
+B[23] => B[23].IN1
+B[24] => B[24].IN1
+B[25] => B[25].IN1
+B[26] => B[26].IN1
+B[27] => B[27].IN1
+B[28] => B[28].IN1
+B[29] => B[29].IN1
+B[30] => B[30].IN1
+B[31] => B[31].IN1
+B[32] => B[32].IN1
+B[33] => B[33].IN1
+B[34] => B[34].IN1
+B[35] => B[35].IN1
+B[36] => B[36].IN1
+B[37] => B[37].IN1
+B[38] => B[38].IN1
+B[39] => B[39].IN1
+B[40] => B[40].IN1
+B[41] => B[41].IN1
+B[42] => B[42].IN1
+B[43] => B[43].IN1
+B[44] => B[44].IN1
+B[45] => B[45].IN1
+B[46] => B[46].IN1
+B[47] => B[47].IN1
+B[48] => B[48].IN1
+B[49] => B[49].IN1
+B[50] => B[50].IN1
+B[51] => B[51].IN1
+B[52] => B[52].IN1
+B[53] => B[53].IN1
+B[54] => B[54].IN1
+B[55] => B[55].IN1
+B[56] => B[56].IN1
+B[57] => B[57].IN1
+B[58] => B[58].IN1
+B[59] => B[59].IN1
+B[60] => B[60].IN1
+B[61] => B[61].IN1
+B[62] => B[62].IN1
+B[63] => B[63].IN1
+s0 => s0.IN65
+
+
+|alu|adder_subtracter:cal|mux2_1:m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[1].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[1].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[2].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[2].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[3].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[3].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[4].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[4].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[5].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[5].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[6].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[6].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[7].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[7].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[8].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[8].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[9].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[9].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[10].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[10].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[11].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[11].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[12].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[12].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[13].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[13].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[14].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[14].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[15].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[15].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[16].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[16].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[17].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[17].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[18].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[18].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[19].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[19].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[20].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[20].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[21].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[21].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[22].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[22].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[23].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[23].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[24].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[24].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[25].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[25].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[26].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[26].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[27].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[27].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[28].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[28].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[29].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[29].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[30].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[30].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[31].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[31].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[32].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[32].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[33].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[33].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[34].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[34].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[35].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[35].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[36].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[36].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[37].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[37].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[38].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[38].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[39].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[39].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[40].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[40].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[41].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[41].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[42].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[42].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[43].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[43].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[44].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[44].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[45].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[45].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[46].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[46].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[47].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[47].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[48].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[48].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[49].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[49].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[50].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[50].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[51].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[51].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[52].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[52].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[53].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[53].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[54].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[54].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[55].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[55].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[56].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[56].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[57].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[57].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[58].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[58].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[59].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[59].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[60].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[60].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[61].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[61].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[62].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[62].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|adder_subtracter:cal|mux2_1:each_adder[63].m1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|adder_subtracter:cal|full_Adder:each_adder[63].f1
+Sum <= xorgate1.DB_MAX_OUTPUT_PORT_TYPE
+Co <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+A => xorgate0.IN0
+A => gate0.IN0
+A => gate1.IN0
+B => xorgate0.IN1
+B => gate0.IN1
+B => gate2.IN0
+Ci => xorgate1.IN1
+Ci => gate1.IN1
+Ci => gate2.IN1
+
+
+|alu|mux8_1:muxs[0].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[0].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[0].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[0].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[0].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[0].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[0].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[0].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[0].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[0].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[1].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[1].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[1].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[1].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[1].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[1].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[1].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[1].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[1].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[1].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[2].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[2].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[2].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[2].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[2].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[2].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[2].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[2].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[2].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[2].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[3].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[3].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[3].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[3].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[3].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[3].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[3].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[3].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[3].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[3].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[4].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[4].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[4].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[4].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[4].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[4].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[4].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[4].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[4].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[4].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[5].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[5].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[5].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[5].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[5].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[5].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[5].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[5].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[5].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[5].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[6].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[6].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[6].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[6].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[6].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[6].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[6].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[6].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[6].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[6].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[7].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[7].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[7].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[7].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[7].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[7].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[7].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[7].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[7].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[7].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[8].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[8].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[8].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[8].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[8].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[8].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[8].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[8].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[8].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[8].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[9].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[9].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[9].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[9].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[9].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[9].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[9].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[9].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[9].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[9].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[10].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[10].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[10].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[10].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[10].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[10].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[10].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[10].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[10].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[10].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[11].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[11].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[11].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[11].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[11].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[11].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[11].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[11].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[11].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[11].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[12].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[12].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[12].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[12].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[12].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[12].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[12].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[12].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[12].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[12].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[13].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[13].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[13].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[13].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[13].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[13].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[13].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[13].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[13].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[13].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[14].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[14].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[14].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[14].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[14].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[14].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[14].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[14].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[14].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[14].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[15].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[15].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[15].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[15].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[15].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[15].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[15].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[15].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[15].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[15].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[16].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[16].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[16].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[16].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[16].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[16].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[16].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[16].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[16].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[16].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[17].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[17].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[17].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[17].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[17].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[17].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[17].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[17].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[17].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[17].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[18].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[18].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[18].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[18].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[18].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[18].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[18].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[18].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[18].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[18].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[19].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[19].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[19].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[19].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[19].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[19].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[19].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[19].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[19].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[19].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[20].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[20].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[20].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[20].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[20].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[20].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[20].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[20].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[20].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[20].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[21].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[21].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[21].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[21].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[21].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[21].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[21].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[21].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[21].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[21].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[22].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[22].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[22].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[22].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[22].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[22].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[22].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[22].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[22].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[22].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[23].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[23].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[23].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[23].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[23].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[23].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[23].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[23].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[23].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[23].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[24].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[24].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[24].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[24].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[24].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[24].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[24].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[24].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[24].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[24].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[25].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[25].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[25].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[25].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[25].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[25].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[25].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[25].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[25].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[25].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[26].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[26].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[26].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[26].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[26].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[26].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[26].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[26].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[26].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[26].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[27].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[27].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[27].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[27].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[27].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[27].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[27].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[27].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[27].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[27].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[28].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[28].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[28].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[28].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[28].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[28].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[28].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[28].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[28].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[28].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[29].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[29].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[29].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[29].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[29].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[29].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[29].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[29].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[29].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[29].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[30].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[30].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[30].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[30].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[30].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[30].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[30].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[30].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[30].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[30].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[31].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[31].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[31].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[31].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[31].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[31].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[31].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[31].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[31].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[31].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[32].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[32].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[32].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[32].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[32].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[32].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[32].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[32].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[32].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[32].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[33].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[33].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[33].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[33].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[33].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[33].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[33].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[33].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[33].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[33].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[34].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[34].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[34].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[34].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[34].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[34].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[34].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[34].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[34].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[34].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[35].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[35].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[35].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[35].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[35].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[35].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[35].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[35].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[35].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[35].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[36].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[36].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[36].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[36].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[36].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[36].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[36].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[36].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[36].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[36].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[37].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[37].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[37].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[37].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[37].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[37].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[37].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[37].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[37].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[37].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[38].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[38].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[38].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[38].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[38].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[38].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[38].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[38].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[38].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[38].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[39].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[39].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[39].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[39].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[39].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[39].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[39].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[39].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[39].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[39].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[40].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[40].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[40].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[40].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[40].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[40].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[40].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[40].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[40].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[40].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[41].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[41].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[41].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[41].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[41].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[41].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[41].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[41].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[41].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[41].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[42].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[42].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[42].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[42].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[42].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[42].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[42].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[42].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[42].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[42].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[43].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[43].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[43].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[43].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[43].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[43].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[43].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[43].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[43].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[43].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[44].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[44].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[44].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[44].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[44].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[44].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[44].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[44].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[44].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[44].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[45].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[45].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[45].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[45].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[45].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[45].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[45].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[45].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[45].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[45].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[46].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[46].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[46].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[46].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[46].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[46].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[46].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[46].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[46].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[46].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[47].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[47].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[47].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[47].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[47].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[47].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[47].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[47].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[47].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[47].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[48].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[48].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[48].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[48].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[48].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[48].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[48].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[48].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[48].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[48].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[49].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[49].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[49].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[49].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[49].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[49].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[49].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[49].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[49].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[49].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[50].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[50].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[50].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[50].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[50].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[50].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[50].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[50].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[50].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[50].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[51].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[51].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[51].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[51].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[51].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[51].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[51].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[51].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[51].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[51].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[52].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[52].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[52].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[52].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[52].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[52].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[52].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[52].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[52].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[52].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[53].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[53].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[53].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[53].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[53].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[53].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[53].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[53].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[53].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[53].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[54].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[54].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[54].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[54].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[54].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[54].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[54].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[54].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[54].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[54].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[55].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[55].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[55].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[55].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[55].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[55].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[55].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[55].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[55].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[55].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[56].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[56].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[56].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[56].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[56].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[56].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[56].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[56].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[56].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[56].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[57].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[57].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[57].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[57].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[57].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[57].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[57].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[57].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[57].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[57].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[58].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[58].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[58].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[58].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[58].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[58].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[58].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[58].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[58].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[58].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[59].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[59].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[59].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[59].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[59].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[59].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[59].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[59].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[59].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[59].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[60].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[60].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[60].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[60].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[60].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[60].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[60].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[60].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[60].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[60].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[61].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[61].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[61].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[61].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[61].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[61].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[61].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[61].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[61].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[61].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[62].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[62].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[62].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[62].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[62].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[62].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[62].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[62].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[62].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[62].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[63].m
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+in[4] => in[4].IN1
+in[5] => in[5].IN1
+in[6] => in[6].IN1
+in[7] => in[7].IN1
+s[0] => s[0].IN2
+s[1] => s[1].IN2
+s[2] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[63].m|mux4_1:mux0
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[63].m|mux4_1:mux0|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[63].m|mux4_1:mux0|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[63].m|mux4_1:mux0|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[63].m|mux4_1:mux1
+out <= mux2_1:muxF.out
+in[0] => in[0].IN1
+in[1] => in[1].IN1
+in[2] => in[2].IN1
+in[3] => in[3].IN1
+s[0] => s[0].IN2
+s[1] => mux2_1:muxF.s
+
+
+|alu|mux8_1:muxs[63].m|mux4_1:mux1|mux2_1:mux1
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[63].m|mux4_1:mux1|mux2_1:mux2
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[63].m|mux4_1:mux1|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+
+|alu|mux8_1:muxs[63].m|mux2_1:muxF
+out <= outputgate.DB_MAX_OUTPUT_PORT_TYPE
+in1 => gate1.IN0
+in2 => gate2.IN0
+s => gate2.IN1
+s => gate1.IN1
+
+

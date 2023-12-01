@@ -1,0 +1,391 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/simulation/modelsim
+vD_FF
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1666162391
+!i10b 1
+!s100 mAi1d^UBh_1VM52d9_c4K1
+IFWS<40<FbPzM96SOXaOTC2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 D_FF_sv_unit
+S1
+R0
+Z4 w1665638610
+8C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/D_FF.sv
+FC:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/D_FF.sv
+L0 1
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1666162391.000000
+!s107 C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/D_FF.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files|C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/D_FF.sv|
+!i113 1
+Z7 o-sv -work work
+Z8 !s92 -sv -work work +incdir+C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files
+Z9 tCvgOpt 0
+n@d_@f@f
+vDecoder32_5
+R1
+R2
+!i10b 1
+!s100 bfoK59lJ]][NBXh0_8@X11
+IPVf?KC1UZRoPY29^5eihM1
+R3
+Z10 !s105 Decoder32_5_sv_unit
+S1
+R0
+R4
+Z11 8C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/Decoder32_5.sv
+Z12 FC:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/Decoder32_5.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+Z13 !s107 C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/Decoder32_5.sv|
+Z14 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files|C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/Decoder32_5.sv|
+!i113 1
+R7
+R8
+R9
+n@decoder32_5
+vDecoder32_5_testbench
+R1
+R2
+!i10b 1
+!s100 K:1D43fUP5z?[[KkhR4X60
+InL5aIfh6nBSP3:Q8F^W2A2
+R3
+R10
+S1
+R0
+R4
+R11
+R12
+L0 29
+R5
+r1
+!s85 0
+31
+R6
+R13
+R14
+!i113 1
+R7
+R8
+R9
+n@decoder32_5_testbench
+vDecoder8_3
+R1
+R2
+!i10b 1
+!s100 ;lc460IVbMY]`51R?c7>J3
+IPOC0Z7FDVCFK[jYdJOZOX3
+R3
+Z15 !s105 Decoder8_3_sv_unit
+S1
+R0
+R4
+Z16 8C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/Decoder8_3.sv
+Z17 FC:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/Decoder8_3.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+Z18 !s107 C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/Decoder8_3.sv|
+Z19 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files|C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/Decoder8_3.sv|
+!i113 1
+R7
+R8
+R9
+n@decoder8_3
+vDecoder8_3_testbench
+R1
+R2
+!i10b 1
+!s100 4YUPfH[6gaPELd3PaBCBJ1
+I>eQ_0SY23a1YbLF`DD3Cd3
+R3
+R15
+S1
+R0
+R4
+R16
+R17
+L0 25
+R5
+r1
+!s85 0
+31
+R6
+R18
+R19
+!i113 1
+R7
+R8
+R9
+n@decoder8_3_testbench
+vmux16_1
+R1
+Z20 !s110 1666162392
+!i10b 1
+!s100 3?jH:zL:A_K>XeLUZfW7e3
+I<X4T=SU0IiCEH3gCzS8fQ1
+R3
+Z21 !s105 mux16_1_sv_unit
+S1
+R0
+R4
+Z22 8C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/mux16_1.sv
+Z23 FC:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/mux16_1.sv
+L0 2
+R5
+r1
+!s85 0
+31
+Z24 !s108 1666162392.000000
+Z25 !s107 C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/mux16_1.sv|
+Z26 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files|C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/mux16_1.sv|
+!i113 1
+R7
+R8
+R9
+vmux16_1_testbench
+R1
+R20
+!i10b 1
+!s100 eF?N?AMK`G0kLYNZXR3HM1
+IdKTNiP50KjbHcz1Xh;XcP0
+R3
+R21
+S1
+R0
+R4
+R22
+R23
+Z27 L0 16
+R5
+r1
+!s85 0
+31
+R24
+R25
+R26
+!i113 1
+R7
+R8
+R9
+vmux2_1
+R1
+R2
+!i10b 1
+!s100 ]TZRMkAVUXPM01R3<1ieD0
+I?LnZ7RjYfNM4?4n66kDU21
+R3
+Z28 !s105 mux2_1_sv_unit
+S1
+R0
+R4
+Z29 8C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/mux2_1.sv
+Z30 FC:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/mux2_1.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+Z31 !s107 C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/mux2_1.sv|
+Z32 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files|C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/mux2_1.sv|
+!i113 1
+R7
+R8
+R9
+vmux2_1_testbench
+R1
+R2
+!i10b 1
+!s100 B1lAQAkOfNS6>7:RGDHiU0
+I>GaHd4E8iXfB0iY32LFZb1
+R3
+R28
+S1
+R0
+R4
+R29
+R30
+R27
+R5
+r1
+!s85 0
+31
+R6
+R31
+R32
+!i113 1
+R7
+R8
+R9
+vmux32_1
+R1
+R20
+!i10b 1
+!s100 C2ogLfYnZ_RZOcKg0kmN61
+IDZ4=>4;PZF`dS`[RKjf>80
+R3
+Z33 !s105 mux32_1_sv_unit
+S1
+R0
+R4
+Z34 8C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/mux32_1.sv
+Z35 FC:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/mux32_1.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R24
+Z36 !s107 C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/mux32_1.sv|
+Z37 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files|C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/mux32_1.sv|
+!i113 1
+R7
+R8
+R9
+vmux32_1_testbench
+R1
+R20
+!i10b 1
+!s100 ihJIT=;V];55dUXkO0Peo0
+IJIJZ_4V_h8V2;AFT7:FFh2
+R3
+R33
+S1
+R0
+R4
+R34
+R35
+R27
+R5
+r1
+!s85 0
+31
+R24
+R36
+R37
+!i113 1
+R7
+R8
+R9
+vmux4_1
+R1
+R2
+!i10b 1
+!s100 dUO:<b]hZ[]l72zW8deV50
+IWfh6UcU`CN`NC=BCzdNlD3
+R3
+Z38 !s105 mux4_1_sv_unit
+S1
+R0
+R4
+Z39 8C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/mux4_1.sv
+Z40 FC:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/mux4_1.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+Z41 !s107 C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/mux4_1.sv|
+Z42 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files|C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/mux4_1.sv|
+!i113 1
+R7
+R8
+R9
+vmux4_1_testbench
+R1
+R2
+!i10b 1
+!s100 MVAYQh5Pbm69mi;P0ZFn12
+II284HlNa:HTD?M?mDAF7m0
+R3
+R38
+S1
+R0
+R4
+R39
+R40
+L0 14
+R5
+r1
+!s85 0
+31
+R6
+R41
+R42
+!i113 1
+R7
+R8
+R9
+voneRegister
+R1
+R20
+!i10b 1
+!s100 XZ:hnhZT4Ykz5KWMQcjf52
+I>3gh<L]aDYF>0RPUlROBc3
+R3
+!s105 oneRegister_sv_unit
+S1
+R0
+R4
+8C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/oneRegister.sv
+FC:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/oneRegister.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/oneRegister.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files|C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/oneRegister.sv|
+!i113 1
+R7
+R8
+R9
+none@register
+vregfile
+R1
+R20
+!i10b 1
+!s100 fPF^eB@1;^_QP[]9BYHZE0
+I1Rg;0;j6GWeDG`I9f6O^L2
+R3
+!s105 regfile_sv_unit
+S1
+R0
+R4
+8C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/regfile.sv
+FC:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/regfile.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/regfile.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files|C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab1_files/regfile.sv|
+!i113 1
+R7
+R8
+R9

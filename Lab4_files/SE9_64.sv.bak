@@ -1,0 +1,4 @@
+module SE9_64 (
+	output logic [63:0] SEout,
+	input  logic [8:0] SEin
+	);

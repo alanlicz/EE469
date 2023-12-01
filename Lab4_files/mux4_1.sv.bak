@@ -1,0 +1,11 @@
+module mux4_1 (out, in, s);
+	output logic out;
+	input logic [3:0] in;
+	input logic [1:0] s;
+	logic mux1out, mux2out;
+	
+	mux2_1 mux1 (.out(mux1out), .in1(in[3]), .in2(in[2]), .s(s[1]));
+	mux2_1 mux2 (.out(mux2out), .in1(in[1]), .in2(in[0]), .s(s[1]));
+	mux2_1 muxF (.out, .in1(mux1out), .in2(mux2out), .s(s[0]));
+endmodule
+

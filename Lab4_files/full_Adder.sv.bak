@@ -1,0 +1,19 @@
+`timescale 1ps/1ps
+module full_Adder (Sum, Co, A, B, Ci);
+	output logic Sum, Co;
+	input logic A, B, Ci;
+	logic D, E, F, G;
+	parameter delay = 50;
+	
+	// out = (AxorB)xorCi
+	xor_2 xorgate0 (.out(E), .A, .B);
+	xor_2 xorgate1 (.out, .A(D), .B(Ci));
+
+	// AB+ACi+BCi = Co
+	and #delay gate0 (E, A ,B);
+	and #delay gate1 (F, A ,Ci);
+	and #delay gate2 (G, B ,Ci);
+	or  #delay outputgate (Co, E, F, G);
+	
+endmodule
+

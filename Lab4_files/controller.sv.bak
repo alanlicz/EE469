@@ -1,0 +1,27 @@
+`timescale 1ps/1ps
+module controller (Reg2Loc, AdI, ALUSrc, ALUOp, FWen, Sctr, MemToReg, RegWrite, MemWrite, BLT, UncondBr, CBZ, Opcode);
+
+output logic Reg2Loc, AdI, ALUSrc, ALUOp, FWen, Sctr, MemToReg, RegWrite, MemWrite;	// register side
+output logic BLT,UncondBr, CBZ;		// instruction side	
+input logic [31:21] Opcode;
+logic outCtr [13:0];
+
+assign Reg2Loc  = outCtr[13];
+assign AdI 		 = outCtr[12];
+assign ALUSrc 	 = outCtr[11];
+assign ALUOp 	 = outCtr[10:8];
+assign FWen 	 = outCtr[ 7];
+assign Sctr 	 = outCtr[ 6];
+assign MemToReg = outCtr[ 5];
+assign RegWrite = outCtr[ 4];
+assign MemWrite = outCtr[ 3];
+assign BLT 		 = outCtr[ 2];
+assign UncondBr = outCtr[ 1];
+assign CBZ 		 = outCtr[ 0];
+
+always_com begin
+	case (Opcode)					//       ALU76543210
+		11'bxxxxxxxxxxx: outCtr = 14b'xxxxxxxxxxxxxx;
+
+endmodule
+

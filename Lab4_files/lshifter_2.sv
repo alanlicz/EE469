@@ -1,0 +1,29 @@
+// shift a 64-bit input left by 2
+module lshifter_2(offset, addr);
+	output logic [63:0] addr;
+	input logic [63:0] offset;
+	
+	
+	assign addr[0]=0;
+	assign addr[1]=0;
+	
+	genvar i;
+	generate
+		for (i=2; i<64; i++) begin : shifter
+			assign addr[i]=offset[i-2];
+		end
+	endgenerate
+endmodule
+
+
+
+module lshifter_2_testbench();
+	logic [63:0] addr;
+	logic [63:0] offset;
+	
+	initial begin
+		offset=64'b0000000000000000000000000000000000000000000000000000000000001111; #5000;
+	end
+	
+	lshifter_2 dut (.offset, .addr);
+endmodule 

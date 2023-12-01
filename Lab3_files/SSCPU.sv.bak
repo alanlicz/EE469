@@ -1,0 +1,16 @@
+`timescale 1ps/1ps
+module SSCPU (clk, reset);
+	parameter delay = 50;
+	
+	input logic clk, reset;
+	
+	logic [31:0] pc_out;
+	logic [31:0] IM_addr;
+	
+	// assign reset = 1'b0;
+	
+	pc_reg Pc (.DataOut(IM_addr), .DataIn(pc_out), .WriteEn(1'b1), .clk, .reset);
+	instructmem IM (.address(), .instruction(),clk);	// Memory is combinational, but used for error-checking
+	
+	Adder32 p4 (.S(), .A(), .B(32'b00000000000000000000000000000100));	//pc = pc+4
+	

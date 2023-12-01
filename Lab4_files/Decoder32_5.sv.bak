@@ -1,0 +1,24 @@
+`timescale 1ps/1ps
+module Decoder32_5 (WriteEn, RegWrite, WriteRegister);
+	output logic [31:0] WriteEn;
+	input logic RegWrite;	//enablelor
+	input logic [4:0] WriteRegister;
+	logic [3:0] enable;
+	logic [1:0] WriteOpp;
+	
+	parameter delay = 50;
+	
+	// 4_2decoder
+	not #delay inver3 (WriteOpp[0], WriteRegister[0]);
+	not #delay inver4 (WriteOpp[1], WriteRegister[1]);
+	and #delay e00 (enable[0], WriteOpp[0], 		WriteOpp[1], 		RegWrite);
+	and #delay e01 (enable[1], WriteOpp[0], 		WriteRegister[1], RegWrite);
+	and #delay e10 (enable[2], WriteRegister[0], WriteOpp[1], 		RegWrite);
+	and #delay e11 (enable[3], WriteRegister[0], WriteRegister[1], RegWrite);
+	
+	// 4_2decoder connect to 4 8_3decoders
+	Decoder8_3 de31_24 (.out(WriteEn[31:24]), .en(enable[0]), .s(WriteRegister[4:2]));
+	Decoder8_3 de23_16 (.out(WriteEn[23:16]), .en(enable[1]), .s(WriteRegister[4:2]));
+	Decoder8_3 de15_8  (.out(WriteEn[15:8]) , .en(enable[2]), .s(WriteRegister[4:2]));
+	Decoder8_3 de7_0   (.out(WriteEn[7:0])  , .en(enable[3]), .s(WriteRegister[4:2]));
+endmodule

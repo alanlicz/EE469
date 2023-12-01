@@ -1,0 +1,178 @@
+module regfile (ReadData1, ReadData2, WriteData, ReadRegister1, ReadRegister2, WriteRegister, RegWrite, clk); 
+	output logic [63:0] ReadData1, ReadData2;
+	input logic         clk;
+	input logic [4:0]   ReadRegister1, ReadRegister2, WriteRegister; 
+	input logic [63:0]  WriteData;  
+	input logic RegWrite;
+	logic adjRegWrite, reset;
+	logic [31:0] WriteEn;
+	logic [31:0][63:0] RegOut;
+	logic [63:0][31:0] MuxIn;
+
+	buf rst (reset, 1'b0);
+	D_FF Dff1 (.q(adjRegWrite), .d(RegWrite), .reset, .clk);
+	Decoder32_5 deco (.WriteEn, .RegWrite(adjRegWrite), .WriteRegister);
+	
+
+	genvar i;
+	generate
+		for(i = 0; i < 31; i++) begin : each64bRegister
+			oneRegister Reg64 (.DataOut(RegOut[i][63:0]), .DataIn(WriteData), .WriteEn(WriteEn[i]), .clk, .reset);
+		end
+
+	
+		for(i = 0; i < 64; i++) begin : zeros
+			buf zero64 (RegOut[31][i], 1'b0);
+		end
+	endgenerate
+	
+	genvar x,y;
+	generate
+		for (x = 0; x < 32; x++) begin : row
+			for (y = 0; y < 64; y++) begin : col
+				buf switch (MuxIn[y][x], RegOut[x][y]);
+			end
+		end
+	endgenerate
+			
+	genvar j;
+	generate
+		for (j = 0; j < 64; j++) begin : MUX
+			mux32_1 mux1 (.out(ReadData1[j]), .in(MuxIn[j][31:0]), .s(ReadRegister1));
+			mux32_1 mux2 (.out(ReadData2[j]), .in(MuxIn[j][31:0]), .s(ReadRegister2));
+		end
+	endgenerate
+	
+endmodule
+
+
+
+module mux2_1 (out, in1, in2, s);	// out = s' in1 + s in2
+	output logic out;
+	input logic in1, in2, s;
+	logic A, B, os;
+	not invertgate (os, s);
+	and gate1 (A,os,in1);
+	and gate2 (B,s ,in2);
+	or outputgate (out, A, B);
+endmodule
+
+
+
+module mux4_1 (out, in, s);
+	output logic out;
+	input logic [3:0] in;
+	input logic [1:0] s;
+	logic mux1out, mux2out;
+	
+	mux2_1 mux1 (.out(mux1out), .in1(in[3]), .in2(in[2]), .s(s[1]));
+	mux2_1 mux2 (.out(mux2out), .in1(in[1]), .in2(in[0]), .s(s[1]));
+	mux2_1 muxF (.out, .in1(mux1out), .in2(mux2out), .s(s[0]));
+endmodule
+
+
+
+module mux16_1 (out, in, s);
+	output logic out;
+	input logic [15:0] in;
+	input logic [3:0] s;
+	logic [3:0] muxout;
+	
+	mux4_1 mux3 (.out(muxout[3]), .in(in[15:12]), .s(s[3:2]));
+	mux4_1 mux2 (.out(muxout[2]), .in(in[11:8] ), .s(s[3:2]));
+	mux4_1 mux1 (.out(muxout[1]), .in(in[7:4]  ), .s(s[3:2]));
+	mux4_1 mux0 (.out(muxout[0]), .in(in[3:0]  ), .s(s[3:2]));
+	mux4_1 muxF (.out, .in(muxout[3:0]), .s(s[1:0]));
+endmodule
+
+
+
+module mux32_1 (out, in, s);
+	output logic out;
+	input logic [31:0] in;
+	input logic [4:0] s;
+	logic [1:0] muxout;
+	
+	mux16_1 mux1 (.out(muxout[1]), .in(in[31:16]), .s(s[4:1]));
+	mux16_1 mux0 (.out(muxout[0]), .in(in[15:0] ), .s(s[4:1]));
+	mux2_1 muxF (.out, .in1(muxout[1]), .in2(muxout[0]), .s(s[0]));
+endmodule
+
+
+
+module D_FF (q, d, reset, clk);
+	output reg q;
+	input d, reset, clk; 
+	always_ff @(posedge clk) 
+		if (reset) 
+			q <= 0; // On reset, set to 0 
+		else 
+			q <= d; // Otherwise out = d
+endmodule 
+
+
+
+module oneRegister (DataOut, DataIn, WriteEn, clk, reset);	//takein 64, take out 64 bit
+	output logic [63:0] DataOut;
+	input  logic        clk, WriteEn, reset;
+	input  logic [63:0] DataIn;
+	logic        [63:0] oldData, muxOut;
+	
+	genvar i;
+	generate
+		for(i = 0; i < 64; i++) begin : each1bRegister
+			mux2_1 mx (.out(muxOut[i]), .in1(oldData[i]), .in2(DataIn[i]), .s(WriteEn));
+			D_FF regis (.q(DataOut[i]), .d(muxOut[i]), .reset, .clk);
+		end
+	endgenerate
+
+endmodule
+
+
+
+module Decoder32_5 (WriteEn, RegWrite, WriteRegister);
+	output logic [31:0] WriteEn;
+	input logic RegWrite;	//enablelor
+	input logic [4:0] WriteRegister;
+	logic [3:0] enable;
+	logic [1:0] WriteOpp;
+	
+	
+	
+	// 4_2decoder
+	not inver3 (WriteOpp[0], WriteRegister[3]);
+	not inver4 (WriteOpp[1], WriteRegister[4]);
+	and e00 (enable[0], WriteOpp[0], WriteOpp[1], RegWrite);
+	and e01 (enable[1], WriteOpp[0], WriteRegister[4], RegWrite);
+	and e10 (enable[2], WriteRegister[3], WriteOpp[1], RegWrite);
+	and e11 (enable[3], WriteRegister[3], WriteRegister[4], RegWrite);
+	
+	// 4_2decoder to 4 8_3decoders
+	Decoder8_3 de31_24 (.out(WriteEn[31:24]), .en(enable[0]), .s(WriteRegister[2:0]));
+	Decoder8_3 de23_16 (.out(WriteEn[23:16]), .en(enable[1]), .s(WriteRegister[2:0]));
+	Decoder8_3 de15_8  (.out(WriteEn[15:8]) , .en(enable[2]), .s(WriteRegister[2:0]));
+	Decoder8_3 de7_0   (.out(WriteEn[7:0])  , .en(enable[3]), .s(WriteRegister[2:0]));
+endmodule
+
+
+
+module Decoder8_3 (out, en, s);
+	output logic [7:0] out;
+	input  logic       en;
+	input  logic [2:0] s;
+	logic        [2:0] o;		// invert s
+	
+	not inver2 (o[2], s[2]);
+	not inver1 (o[1], s[1]);
+	not inver0 (o[0], s[0]);
+	
+	and g000 (out[0], o[2], o[1], o[0], en);
+	and g001 (out[1], o[2], o[1], s[0], en);
+	and g010 (out[2], o[2], s[1], o[0], en);
+	and g011 (out[3], o[2], s[1], s[0], en);
+	and g100 (out[4], s[2], o[1], o[0], en);
+	and g101 (out[5], s[2], o[1], s[0], en);
+	and g110 (out[6], s[2], s[1], o[0], en);
+	and g111 (out[7], s[2], s[1], s[0], en);
+endmodule
+

@@ -1,0 +1,7 @@
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+Info (10281): Verilog HDL Declaration information at controller.sv(8): object "BrTaken" differs only in case from object "brtaken" in the same scope File: C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab3_files/controller.sv Line: 8
+Info (10281): Verilog HDL Declaration information at alu.sv(21): object "A" differs only in case from object "a" in the same scope File: C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab3_files/alu.sv Line: 21
+Info (10281): Verilog HDL Declaration information at alu.sv(21): object "B" differs only in case from object "b" in the same scope File: C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab3_files/alu.sv Line: 21
+Warning (10030): Net "mem.data_a" at instructmem.sv(38) has no driver or initial value, using a default initial value '0' File: C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab3_files/instructmem.sv Line: 38
+Warning (10030): Net "mem.waddr_a" at instructmem.sv(38) has no driver or initial value, using a default initial value '0' File: C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab3_files/instructmem.sv Line: 38
+Warning (10030): Net "mem.we_a" at instructmem.sv(38) has no driver or initial value, using a default initial value '0' File: C:/Users/Alan/iCloudDrive/Documents/UW/EE469/Lab3_files/instructmem.sv Line: 38

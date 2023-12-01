@@ -1,0 +1,64 @@
+# Reading C:/intelFPGA_lite/17.0/modelsim_ase/tcl/vsim/pref.tcl
+run runlab.do
+# No Design Loaded!
+vsim work.SSAPUstim
+# vsim work.SSAPUstim 
+# Start time: 14:51:02 on Dec 07,2022
+# Loading sv_std.std
+# Loading work.SSAPUstim
+# Loading work.SSCPU
+# Loading work.reg_p
+# Loading work.instructmem
+# Loading work.Adder64
+# Loading work.SE9_64
+# Loading work.mux2_1p
+# Loading work.lshifter_2
+# Loading work.controller
+# Loading work.condCheck
+# Loading work.regfile
+# Loading work.Decoder32_5
+# Loading work.Decoder8_3
+# Loading work.zero_test
+# Loading work.ZE12_64
+# Loading work.D_FF
+# Loading work.shifterP
+# Loading work.alu
+# Loading work.adder_subtracter
+# Loading work.mux2_1
+# Loading work.full_Adder
+# Loading work.datamem
+# Loading work.Forward_ctrl
+# Loading work.mux4_1p
+# Loading work.oneRegister
+# Loading work.mux32_1
+# Loading work.mux16_1
+# Loading work.mux4_1
+# Loading work.mux8_1
+# ** Warning: Design size of 12642 instances exceeds ModelSim - Intel FPGA Starter Edition recommended capacity.
+# This may because you are loading cell libraries which are not recommended with
+# the ModelSim - Intel FPGA Edition. Expect performance to be adversely affected.
+run runlab.do
+# Invalid time value: runlab.do
+add wave -position end  sim:/SSAPUstim/dut/result0
+add wave -position end  sim:/SSAPUstim/dut/result1
+run -all
+# Running benchmark: ./benchmarks/test01_AddiB.arm
+# WARNING: No extended dataflow license exists
+# **** Error: SelectedSignalQ cmd: Wave::SelectSigCmd .main_pane.dataflow.interior.cs.body.pw.wf.top.tree sim
+# ****        can't read "vsimPriv(.main_pane.dataflow.interior.cs.body:grid)": no such element in array
+# can't read "vsimPriv(.main_pane.dataflow.interior.cs.body:grid)": no such element in array
+#     while executing
+# "set grid $vsimPriv($grid:grid)"
+#     (procedure "ginfo" line 10)
+#     invoked from within
+# "ginfo trees $w"
+#     (procedure "Wave::SelectSigCmd" line 8)
+#     invoked from within
+# "Wave::SelectSigCmd .main_pane.dataflow.interior.cs.body.pw.wf.top.tree sim"
+#     ("eval" body line 1)
+#     invoked from within
+# "eval $p $tankNamespace "
+# Break key hit
+# Simulation stop requested.
+# End time: 14:53:14 on Dec 07,2022, Elapsed time: 0:02:12
+# Errors: 2, Warnings: 2

@@ -1,0 +1,24 @@
+# Reading C:/intelFPGA_lite/17.0/modelsim_ase/tcl/vsim/pref.tcl
+vsim work.instructmem_testbench
+# vsim work.instructmem_testbench 
+# Start time: 13:57:04 on Nov 23,2022
+# Loading sv_std.std
+# Loading work.instructmem_testbench
+# Loading work.instructmem
+add wave -position end  sim:/instructmem_testbench/ClockDelay
+add wave -position end  sim:/instructmem_testbench/address
+add wave -position end  sim:/instructmem_testbench/clk
+add wave -position end  sim:/instructmem_testbench/instruction
+add wave -position end  sim:/instructmem_testbench/i
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "../benchmarks/test12_CRC16.arm" in read mode.
+# No such file or directory. (errno = ENOENT)    : ./instructmem.sv(47)
+#    Time: 0 ps  Iteration: 0  Instance: /instructmem_testbench/dut
+# Running benchmark: ../benchmarks/test12_CRC16.arm
+# ** Error: Assertion error.
+#    Time: 1282500 ns  Scope: instructmem_testbench.dut File: ./instructmem.sv Line: 38
+# ** Note: $stop    : ./instructmem.sv(84)
+#    Time: 1282500 ns  Iteration: 1  Instance: /instructmem_testbench
+# Break in Module instructmem_testbench at ./instructmem.sv line 84
+# End time: 13:57:41 on Nov 23,2022, Elapsed time: 0:00:37
+# Errors: 1, Warnings: 1

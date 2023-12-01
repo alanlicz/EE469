@@ -1,0 +1,11 @@
+module mux32_1 (out, in, s);
+	output logic out;
+	input logic [31:0] in;
+	input logic [4:0] s;
+	logic [1:0] muxout;
+	
+	mux16_1 mux1 (.out(muxout[1]), .in(in[31:16]), .s(s[4:1]));
+	mux16_1 mux0 (.out(muxout[0]), .in(in[15:0] ), .s(s[4:1]));
+	mux2_1 muxF (.out, .in1(muxout[1]), .in2(muxout[0]), .s(s[0]));
+endmodule
+

@@ -1,0 +1,36 @@
+`timescale 1ps/1ps
+module zero_test (isZero, data);
+	input logic [63:0] data;
+	output logic isZero;
+	
+	logic [31:0] lv0;
+	logic [15:0] lv1;
+	logic [7:0] lv2;
+	logic [3:0] lv3;
+	logic [1:0] lv4;
+	
+	parameter delay = 50;
+	
+	// zero flag
+	genvar a, b, c, d, e;
+	generate		//create a big or gate;
+		for(a = 0; a < 32; a++) begin : layer0
+			or #delay l0 (lv0[a], data[a], data[a+32]);
+		end
+		for(b = 0; b < 16; b++) begin : layer1
+			or #delay l1 (lv1[b], lv0[b], lv0[b+16]);
+		end
+		for(c = 0; c < 8; c++) begin : layer2
+			or #delay l2 (lv2[c], lv1[c], lv1[c+8]);
+		end
+		for(d = 0; d < 4; d++) begin : layer3
+			or #delay l3 (lv3[d], lv2[d], lv2[d+4]);
+		end
+		for(e = 0; e < 2; e++) begin : layer4
+			or #delay l4 (lv4[e], lv3[e], lv3[e+2]);
+		end
+	endgenerate
+	
+	nor #delay l5 (isZero, lv4[0], lv4[1]);
+
+endmodule 
